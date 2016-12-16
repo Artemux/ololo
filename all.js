@@ -1,0 +1,1 @@
+function sayMyName(){console.log("My name is "+name+"!")}function greeting(){console.log("Hi "+name+"! What's goin' down?")}var name="Artem",name="Jade";
